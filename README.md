@@ -56,6 +56,7 @@ https://typora.io/
 - wonanut（https://github.com/wonanut）
 - faywh（https://github.com/faywh）
 - FakeNews（https://github.com/18720945831）
+- beaverQXX（https://github.com/beaverQXX）
 
 
 
