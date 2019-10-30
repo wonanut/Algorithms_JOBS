@@ -78,4 +78,4 @@ https://typora.io/
 #### 4.3 编程语言
 
 - C++ （暂时为空）
-- Python（暂时为空）
+- Python
