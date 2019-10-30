@@ -53,10 +53,11 @@ https://typora.io/
 
 按照加入顺序：
 
-- wonanut（https://github.com/wonanut）
-- faywh（https://github.com/faywh）
-- FakeNews（https://github.com/18720945831）
-- beaverQXX（https://github.com/beaverQXX）
+- wonanut（ https://github.com/wonanut ）
+- faywh（ https://github.com/faywh ）
+- FakeNews（ https://github.com/18720945831 ）
+- beaverQXX（ https://github.com/beaverQXX ）
+- PeterJames1 ( https://github.com/PeterJames1 )
 
 
 
