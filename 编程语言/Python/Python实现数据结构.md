@@ -1,5 +1,20 @@
+@Author: Howard Wonanut
 
-# Python实现栈
+@Date: 2019-10
+
+
+
+## Python实现栈
+
+实现接口：
+
+- init() 用于初始化stack，数据类型为list
+- size() 用于获得stack的大小
+- push() 用于往栈中添加元素，添加的元素类型可以是int或者list
+- top(）获取栈顶元素
+- pop() 弹出并返回栈顶元素
+- print_stack() 打印栈
+  
 
 
 ```python
@@ -40,6 +55,8 @@ class Stack(object):
         print('Bottom |', *self._stack, '| Top >')
 ```
 
+测试
+
 
 ```python
 stack = Stack()
@@ -58,14 +75,22 @@ stack.top()
     Bottom | 1 2 3 4 5 | Top >
     Bottom | 1 2 3 4 | Top >
     Bottom | 1 2 3 4 11 | Top >
-    
-
-
-
-
     11
 
 
+
+## Python实现单端队列
+
+实现接口：
+
+- init() 用于初始化队列，数据类型为list
+- size() 用于获得队列的大小
+- push() 用于往队列尾部添加元素，添加的元素类型可以是int或者list
+- rear(）获取队列尾部元素
+- front() 获取队列头部元素
+- pop() 弹出并返回队列头部元素
+- print_queue() 打印队列
+  
 
 
 ```python
@@ -106,6 +131,8 @@ class Queue(object):
         print('Front |', *self._queue, '| Rear >')
 ```
 
+测试
+
 
 ```python
 queue = Queue()
@@ -123,11 +150,6 @@ queue.size()
     Front | 1 2 3 4 5 | Rear >
     Front | 2 3 4 5 | Rear >
     Front | 2 3 4 5 11 | Rear >
-    
-
-
-
-
     5
 
 
