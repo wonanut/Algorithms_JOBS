@@ -1,10 +1,10 @@
-![](./imgs/logo.png)
+[![]([https://img.shields.io/badge/CSDN-%E5%8D%83%E7%9A%A3-red](https://img.shields.io/badge/CSDN-千皣-red))](https://blog.csdn.net/qq_26822029)
+
+<div align="center">
+<img src="./imgs/logo.png" style="zoom:80%;" />
+</div> 
 
 
-
-
-
-# Algorithms_JOBS
 
 为了系统的整理所学内容，以及系统的全面的准备面试，我们搜集并整理如下资料，包括如下模块
 
