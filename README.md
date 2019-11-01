@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#contributors)
+[![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#贡献者)
 
 <div align='center'>
 <img src="./imgs/logo.png" style="zoom:80%;" />
@@ -52,7 +52,7 @@ https://typora.io/
 ```
 
 
-<div id='contributors'>&nbsp;</div>
+
 ## 3 贡献者
 
 按照加入顺序：
