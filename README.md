@@ -59,7 +59,7 @@ https://typora.io/
 
 - wonanut（ https://github.com/wonanut ）
 - faywh（ https://github.com/faywh ）
-- FakeNews（ https://github.com/18720945831 ）
+- FakeNews（ https://github.com/FakeNewss ）
 - beaverQXX（ https://github.com/beaverQXX ）
 - PeterJames1 ( https://github.com/PeterJames1 )
 
