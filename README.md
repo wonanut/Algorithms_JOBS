@@ -1,6 +1,6 @@
-[![]([https://img.shields.io/badge/CSDN-%E5%8D%83%E7%9A%A3-red](https://img.shields.io/badge/CSDN-千皣-red))](https://blog.csdn.net/qq_26822029)
-
-<div align="center">
+<div align='center'>
+[![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)
+[![](https://img.shields.io/badge/contributors-5-green)](#contributors)
 <img src="./imgs/logo.png" style="zoom:80%;" />
 </div> 
 
@@ -52,7 +52,8 @@ https://typora.io/
 ```
 
 
-
+<div id='contributors'>
+</div>
 ## 3 贡献者
 
 按照加入顺序：
@@ -62,6 +63,7 @@ https://typora.io/
 - FakeNews（ https://github.com/18720945831 ）
 - beaverQXX（ https://github.com/beaverQXX ）
 - PeterJames1 ( https://github.com/PeterJames1 )
+
 
 
 
