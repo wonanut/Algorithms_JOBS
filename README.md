@@ -66,6 +66,7 @@ https://typora.io/
 #### 4.1 算法部分
 - 剑指Offer解题笔记（上）（Python/C++）
 - 剑指Offer解题笔记（下）（Python/C++）（正在赶制中）
+- 剑指Offer解题笔记（Java）（正在赶制中）
 - LeetCode部分解题笔记（待上传）
 - 动态规划专题（待上传）
 - 排序算法专题
