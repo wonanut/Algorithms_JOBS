@@ -52,7 +52,7 @@ https://typora.io/
 ```
 
 
-<div id='contributors'>
+<div id='contributors'></div>
 ## 3 贡献者
 
 按照加入顺序：
@@ -62,7 +62,6 @@ https://typora.io/
 - FakeNews（ https://github.com/18720945831 ）
 - beaverQXX（ https://github.com/beaverQXX ）
 - PeterJames1 ( https://github.com/PeterJames1 )
-</div>
 
 
 
