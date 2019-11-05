@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Groups-XJTU-brightgreen)  [![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#3-贡献者)
 
 <div align='center'>
-<img src="https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/algo.jpg" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/logo.jpg" style="zoom:80%;" />
 </div> 
 
 
