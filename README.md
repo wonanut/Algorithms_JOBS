@@ -1,10 +1,10 @@
-![](https://img.shields.io/badge/Groups-XJTU-brightgreen)  [![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#3-贡献者)
-
 <div align='center'>
-<img src="https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/logo.jpg" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/logo.png" style="zoom:80%;" />
 </div> 
 
+![](https://img.shields.io/badge/Groups-XJTU-brightgreen)  [![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#3-贡献者)
 
+------
 
 为了系统的整理所学内容，以及系统的全面的准备面试，我们搜集并整理如下资料，包括如下模块
 
