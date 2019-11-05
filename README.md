@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Groups-XJTU-brightgreen)  [![](https://img.shields.io/badge/CSDN-千皣的博客-red)](https://blog.csdn.net/qq_26822029)  [![](https://img.shields.io/badge/contributors-5-green)](#3-贡献者)
 
 <div align='center'>
-<img src="./imgs/logo.png" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/algo.jpg" style="zoom:80%;" />
 </div> 
 
 
@@ -9,12 +9,12 @@
 为了系统的整理所学内容，以及系统的全面的准备面试，我们搜集并整理如下资料，包括如下模块
 
 
-| ![算法](./imgs/algo.jpg) | ![机器学习](./imgs/ml.jpg) | ![编程语言](./imgs/coding.jpg) | ![数据库](./imgs/db.jpg) | ![分布式](./imgs/dist.jpg) |
-| :----------------------: | :------------------------: | :----------------------------: | :----------------------: | :------------------------: |
-|      剑指Offer题解       |            SVM             |              C++               |           SQL            |       Apache Hadoop        |
-|       LeetCode题解       |             LR             |             Python             |                          |                            |
-|       十大排序算法       |           决策树           |              Java              |                          |                            |
-|       玩转算法面试       |        神经网络基础        |                                |                          |                            |
+| ![算法](https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/algo.jpg) | ![机器学习](https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/ml.jpg) | ![编程语言](https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/coding.jpg) | ![数据库](https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/db.jpg) | ![分布式](https://raw.githubusercontent.com/wonanut/Algorithms_JOBS/master/imgs/dist.jpg) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                        剑指Offer题解                         |                             SVM                              |                             C++                              |                             SQL                              |                        Apache Hadoop                         |
+|                         LeetCode题解                         |                              LR                              |                            Python                            |                                                              |                                                              |
+|                         十大排序算法                         |                            决策树                            |                             Java                             |                                                              |                                                              |
+|                         玩转算法面试                         |                         神经网络基础                         |                                                              |                                                              |                                                              |
 
 
 持续更新ING...
@@ -73,8 +73,8 @@ https://typora.io/
 - 剑指Offer解题笔记（Java）（正在赶制中）
 - LeetCode部分解题笔记
 - 玩转算法面试（LeetCode）
-- 动态规划专题
 - 排序算法专题
+- 动态规划专题
 - 图论算法专题（TODO）
   - 图的表示：邻接矩阵和邻接表
   - 图的遍历：深度搜索和广度搜索
@@ -84,7 +84,9 @@ https://typora.io/
   - *二分图匹配：配对、匈牙利算法
 - 回溯算法专题（TODO）
 - 字符串算法专题（TODO）
-  - KMP
+  - 字符串匹配算法：KMP、BM、Horspool、Sunday、BF、KR、AC
+  - 统计字符出现个数、获取KV内容：Trie树
+  - 最长回文子串：Manacher‘s Algorithm
 - 贪心算法专题（TODO）
 - 数学专题（TODO）
 
@@ -106,6 +108,12 @@ https://typora.io/
 #### 4.3 编程语言
 
 - C++ （TODO）
+  - C++基础专题
+  - C++并发专题
+  - C++ STL专题
+  - C++项目源码专题
+    - cJSON
+    - Node.js
 - Python
 - Java（TODO）
 
