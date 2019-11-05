@@ -14,7 +14,7 @@
 |      剑指Offer题解       |            SVM             |              C++               |           SQL            |       Apache Hadoop        |
 |       LeetCode题解       |             LR             |             Python             |                          |                            |
 |       十大排序算法       |           决策树           |              Java              |                          |                            |
-|                          |        神经网络基础        |                                |                          |                            |
+|       玩转算法面试       |        神经网络基础        |                                |                          |                            |
 
 
 持续更新ING...
@@ -71,9 +71,10 @@ https://typora.io/
 - 剑指Offer解题笔记（上）（Python/C++）
 - 剑指Offer解题笔记（下）（Python/C++）（正在赶制中）
 - 剑指Offer解题笔记（Java）（正在赶制中）
-- LeetCode部分解题笔记（待上传）
+- LeetCode部分解题笔记
 - 动态规划专题
 - 排序算法专题
+- 玩转算法面试（LeetCode）
 
 
 
