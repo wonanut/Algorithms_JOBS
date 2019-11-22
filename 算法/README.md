@@ -4,6 +4,13 @@
 
 
 
+#### 0. 算法相关学习资源
+
+- [★★★★☆] [算法可视化网站](https://visualgo.net/zh)
+- [★★★★☆] [详细的常用数据结构介绍](https://github.com/zhipingChen/DataStructure)
+- [★★★★☆] [详细的排序算法介绍](https://github.com/zhipingChen/SortingAlgorithm)
+- [★★★☆☆] [Python实现所有算法](https://github.com/TheAlgorithms/Python)
+
 #### 1. [动态规划专题](./动态规划专题/README.md)
 
 - [动态规划系列（1）](./动态规划专题/动态规划系列1.md)
