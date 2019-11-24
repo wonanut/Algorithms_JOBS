@@ -1,5 +1,7 @@
 # leetcode部分题解
 
+**@Author:** Xiuxin Qin
+
 * [简单的题目](./leetcode/简单的题.md)
 * [STACK](./leetcode/STACK.md)
 * [动态规划](./leetcode/动态规划.md)
