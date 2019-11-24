@@ -48,6 +48,8 @@
 * [动态规划](./leetcode/动态规划.md)
 * [树](./leetcode/树的相关练习.md)
 * [滑动窗口](./leetcode/滑动窗口.md)
+* [位运算](./leetcode/位运算.md)
+* [递归回溯](./leetcode/递归回溯的题目.md)
 
 
 
