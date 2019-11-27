@@ -2,7 +2,7 @@
 
 **编程语言篇**维护者：Howard Wonanut | Hui Wu
 
-- [C++标准模板库](./STL/README.md)
+- [C++标准模板库](./README.md)
   - [string](./STL/string.md)
 
 
