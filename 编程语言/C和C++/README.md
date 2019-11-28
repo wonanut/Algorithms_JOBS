@@ -2,13 +2,13 @@
 
 @Author: Hui Wu
 
-@Date: 2019-11 - 2019-12
+@Date: 2019.11 - 2019.12
 
 - 顺序容器
-  - [string字符串](./STL/string.md)
-  - [stack和queue](./STL/stack和queue.md)
-  - [vector、deque和list](./STL/vector和deque和list.md)
+  - [string字符串](./C和C++/STL/string.md)
+  - [stack和queue](./C和C++/STL/stack和queue.md)
+  - [vector、deque和list](./C和C++/STL/vector和deque和list.md)
 - 关联容器
-  - [map容器](./STL/map.md)
-- [regex正则式](./STL/regex.md)
+  - [map容器](./C和C++/STL/map.md)
+- [regex正则式](./C和C++/STL/regex.md)
 
