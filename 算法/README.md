@@ -6,6 +6,8 @@
 
 #### 0. 算法相关学习资源
 
+- [★★★★★] [ACM算法刷题必看[kuangbin带你飞]专题1-23](https://vjudge.net/article/187)
+
 - [★★★★☆] [算法可视化网站](https://visualgo.net/zh)
 - [★★★★☆] [详细的常用数据结构介绍](https://github.com/zhipingChen/DataStructure)
 - [★★★★☆] [详细的排序算法介绍](https://github.com/zhipingChen/SortingAlgorithm)
