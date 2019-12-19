@@ -8,6 +8,16 @@
 
 - 神经网络基础
 
+### 决策树篇
+
+- 决策树篇
+
+
+
+### Hands on machine learning with scikit-learn and tensorflow 读书笔记
+
+- 1 机器学习概览
+
 
 
 ### 机器学习好书推荐
