@@ -1,5 +1,7 @@
 # sizeof和strlen有哪些区别
 
+注意！！sizeof不能用来计算字符串长度！！！
+
 1. sizeof是操作符，strlen是函数。sizeof后如果是类型，必须加括弧；如果是变量名，可以不加括弧。
 
 2. sizeof操作符的结果类型是size_t，它在头文件中typedef为unsigned int类型，保证能容纳实现所建立的最大对象的字节大小。
