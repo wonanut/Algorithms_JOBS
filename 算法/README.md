@@ -46,6 +46,8 @@
 
 #### 5. [leetcode](./leetcode/README.md)
 
+######  	[LeetCode python版题解传送门](https://github.com/wonanut/LeetCode-2020/blob/master/README.md)
+
 * [简单的题目](./leetcode/简单的题.md)
 * [STACK](./leetcode/STACK.md)
 * [动态规划](./leetcode/动态规划.md)
