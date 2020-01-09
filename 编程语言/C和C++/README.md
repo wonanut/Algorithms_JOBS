@@ -14,5 +14,6 @@
   - [map容器](./STL/map.md)
 - [regex正则式](./STL/regex.md)
 
-2. 基础知识面试题
-   - [sizeof和strlen有哪些区别](./基础知识面试题/sizeof-strlen.md)
+2. [基础知识面试题](./C和C++/C++基础面试题.md)
+   - sizeof和strlen有哪些区别
+   - 指针和引用有什么区别
