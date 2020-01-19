@@ -44,7 +44,9 @@
 
 - [玩转算法面试（LeetCode）](./算法面试专题/玩转算法面试（LeetCode）.md)
 
-#### 5. [leetcode](./leetcode/README.md)
+#### 5. [数据结构专题](./数据结构专题/README.md)
+
+#### 6. [leetcode](./leetcode/README.md)
 
 ######  	[LeetCode python版题解传送门](https://github.com/wonanut/LeetCode-2020/blob/master/README.md)
 
