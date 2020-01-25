@@ -1,6 +1,6 @@
 # 数据结构与算法专题之数组篇
 
-@Author：Howard Wonanut
+@Author：FakeNews
 
 @整理时间： 2020年1月-2月
 
@@ -53,7 +53,10 @@
 
 ### 2.1 树的遍历
 
-[144-树的先序遍历](./src/144-binary-tree-preorder-traversal.md)  ⭐⭐ 🔺
+- [144-树的先序遍历](./src/144-binary-tree-preorder-traversal.md)  ⭐ 🔺
+- [94-树的中序遍历](./src/94-binary-tree-inorder-traversal.md)  ⭐ 🔺
+- [145-树的后序遍历](./src/145-binary-tree-postorder-traversal.md)  ⭐⭐🔺
+- [105-树的层次遍历](./src/102-binary-tree-level-order-traversal.md)  ⭐🔺
 
 
 
