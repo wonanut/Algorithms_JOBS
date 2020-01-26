@@ -271,13 +271,49 @@ public int minNumberInRotateArray(int [] array) {
 
 
 
+------
 
 
 
+## 8 [E]  斐波那契数列 
 
+> 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项（从0开始，第0项为0）。
+> n<=39
+>
+> 题目链接:https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tqId=11160&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
 
+```
+用例：
+n = 3
+输出
+3
+```
 
+```java
+//解法一：递归（慢）
+public class Solution {
+    public int Fibonacci(int n) {
+        return n <= 1 ? n : Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
+}
+```
 
+```java
+//解法二：动态规划，其中int[] Fibn可以压缩为一个两个值
+public class Solution {
+    public int Fibonacci(int n) {
+         int[] Fibn = new int[40];
+            Fibn[0]=0;
+            Fibn[1]=1;
+            for (int i = 2;i < 40;i++) {
+                Fibn[i] = Fibn[i - 1] + Fibn[i - 2];
+            }
+            return Fibn[n];
+    }
+}
+```
 
-
+```java
+//解法三：记忆化搜索 可以写，但没必要
+```
 
