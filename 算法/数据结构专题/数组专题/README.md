@@ -67,19 +67,35 @@
 - [283-移动零](./src/283-move-zeros.md)  ⭐⭐ 🔺
 - [27-移除元素](./src/27-remove-element.md)  ⭐⭐
 - [26-删除排序数组中的重复项](./src/26-remove-duplicates-from-sorted-array.md)   ⭐
-- [80-删除排序数组中的重复项II](./src/80-remove-duplicates-from-sorted-array-ii.md) （TODO）
+- [80-删除排序数组中的重复项II](./src/80-remove-duplicates-from-sorted-array-ii.md) ⭐⭐⭐ 🔺
+- [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) `数组`⭐⭐⭐⭐⭐ 🔺
 
 
 
 ### 2.2 对撞指针
 
+- [167. 两数之和-ii](./src/167-two-sum-ii-input-array-is-sorted.md) ⭐⭐ 🕑
+- [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) ⭐
+- [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) ⭐⭐⭐
+
 
 
 ### 2.3 三路快排
 
+`快排思想很重要`
+
+- [75-颜色分类](./src/75-sort-colors.md) ⭐⭐⭐ 🔺
+- [215. 数组中的第K个最大元素](./src/215-kth-largest-element-in-an-array.md) ⭐⭐⭐⭐ 🔺 🕑
+
 
 
 ### 2.4 滑动窗口
+
+- [209. 长度最小的子数组](./src/209-minimum-size-subarray-sum.md)
+- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
+- [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
+- [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) ⭐⭐⭐⭐ 🔺
 
 
 
@@ -89,7 +105,7 @@
 
 
 
-### 2.6 其他题目
+### 2.6 数组和矩阵其他题目
 
 - [189-旋转数组](./src/189-rotate-array.md) ⭐⭐⭐ 🔺
 - [1232-缀点成线](./src/1232-check-if-it-is-a-straight-line.md) ⭐

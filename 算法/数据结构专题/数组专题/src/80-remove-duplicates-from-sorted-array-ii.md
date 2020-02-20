@@ -16,7 +16,9 @@ https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
 
 ## 思路分析
 
-// TODO
+我的方法挺菜的，但思路是对的，设置快慢指针。如下图所示：
+
+![](../images/80.jpg)
 
 
 
@@ -25,6 +27,30 @@ https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
 Python代码
 
 ```python
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        if len(nums) <= 2:
+            return len(nums)
 
+        i = 0
+        cur = nums[0]
+        counter = 0
+        for j in range(len(nums)):
+            if nums[j] == cur:
+                counter += 1
+            else:
+                for k in range(min(counter, 2)):
+                    nums[i] = cur
+                    i += 1
+                cur = nums[j]
+                counter = 1
+        for k in range(min(counter, 2)):
+            nums[i] = cur
+            i += 1
+        return i
 ```
 
