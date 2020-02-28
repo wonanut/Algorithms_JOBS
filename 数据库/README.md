@@ -4,7 +4,7 @@
 
 ### 章节目录
 
-1. 简介([introduction](./The First Chapter ： Introduction.md)) 
+1. 简介(introduction) 
 2. 数据存储与查询(data storage and querying）
 3. 事务管理 (transaction management)
 4. 存储系统架构(system architecture)
