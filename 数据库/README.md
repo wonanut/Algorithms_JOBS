@@ -15,7 +15,7 @@
 
 ### 更新进度
 
-1.简介(introduction) 第六节 *commit*
+1.简介(introduction) 第七节 *commit*
 
 ### 参考
 
