@@ -107,15 +107,15 @@ void *memset(void *s, int c, size_t n)
 
 1. 源和目的内存区域完全不重叠
 
-   ![1](C:\Users\wuhui\Documents\GitHub\Algorithms_JOBS\编程语言\C和C++\figures\1.png)
+   ![1](./figures/1.png)
 
 2. 当源和目的内存区域重叠，且dst在src前
 
-   ![2](C:\Users\wuhui\Documents\GitHub\Algorithms_JOBS\编程语言\C和C++\figures\2.jpg)
+   ![2](./figures/2.jpg)
 
 3. 当源和目的内存区域重叠，且dst在src后
 
-   ![3](C:\Users\wuhui\Documents\GitHub\Algorithms_JOBS\编程语言\C和C++\figures\3.jpg)
+   ![3](./figures/3.jpg)
 
    对于场景1和2，memcpy都可以正常完成拷贝工作，但场景3memcpy会出错，因为src的第4和5块内容被dst拷贝后的内容覆盖。memmove对场景3进行拷贝时，会从src的最后向前拷贝，反向拷贝可以避免出错。
 
